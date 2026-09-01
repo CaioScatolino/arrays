@@ -15,7 +15,8 @@ let precos = [
     { "item": "uva", "preco": 4.0 },
     { "item": "abacaxi", "preco": 6.0 },
     { "item": "manga", "preco": 2.0 },
-    { "item": "morango", "preco": 5.0 }
+    { "item": "morango", "preco": 5.0 },
+    { "item": "kiwi", "preco": 3.5 }
 ]
 
 let precosFiltrados = precos.filter((produto) => {
